@@ -48,6 +48,7 @@ Are there enough qualified, retirement-ready employees in the departments to men
 The ratio of retirement-ready employees to mentorship_eligible employees is significantly higher.  Each role will have a sufficent number of retirment eligible mentors available.  
 
 Total eligible mentorship-employees by title:
+
 <img width="386" alt="query1-title counts" src="https://user-images.githubusercontent.com/691355/129431950-0913417d-4199-42f2-957e-13184a4d29de.png">
 
 
