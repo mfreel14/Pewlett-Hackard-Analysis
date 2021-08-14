@@ -34,33 +34,23 @@ Provide a bulleted list with four major points from the two analysis deliverable
 
 How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 
+As the "silver tsunami" begins there are 90,398 positions that will in total need to be filled.  There are 7 roles that need to filled which are;
+Senior Engineer
+Senior Staff
+Engineer
+Staff
+Technique Leader
+Assistant Engineer
+Manager
+
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
+The ratio of retirement-ready employees to mentorship_eligible employees is significantly higher.  Each role will have a sufficent number of retirment eligible mentors available.  
 
-Deliverable 3 Instructions
-For this part of the Challenge, you’ll write a report to help the manager prepare for the upcoming "silver tsunami."
-
-The analysis should contain the following:
-
-Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
+Total eligible mentorship-employees by title:
+<img width="386" alt="query1-title counts" src="https://user-images.githubusercontent.com/691355/129431950-0913417d-4199-42f2-957e-13184a4d29de.png">
 
 
-Deliverable 3 Requirements
-Structure, Organization, and Formatting (6 points)
-The written analysis has the following structure, organization, and formatting:
+If Pewlett-Hackard were to expand the mentorship years to 1964-1965 this would increase the total eleigible employees to 19,904.  This may help with the transition and prepardness to have additional employees ready to step in and fill available positions.
 
-There is a title, and there are multiple sections. (2 pt)
-Each section has a heading and subheading. (2 pt)
-Links to images are working and displayed correctly. (2 pt)
-Analysis (14 points)
-The written analysis has the following:
-
-Overview of the analysis:
-
-The purpose of the new analysis is well defined. (3 pt)
-Results:
-
-There is a bulleted list with four major points from the two analysis deliverables. (6 pt)
-Summary:
-
-The summary addresses the two questions and contains two additional queries or tables that may provide more insight. (5 pt)
+<img width="910" alt="increase-mentorship" src="https://user-images.githubusercontent.com/691355/129432204-e80a52fc-bc6d-45ae-b4bd-91232a52068d.png">
