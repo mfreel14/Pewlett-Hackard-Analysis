@@ -23,7 +23,7 @@ The analysis will help prepare Bobby’s manager for the “silver tsunami” as
 Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
 
 1.  There are 90,398 employees that are nearing retirement.
-2.  The highest title position nearing retirement are "Senior Engineer" with 29,414 employees.  The least title position nearing retirement are "Manager" with 2 employees.
+2.  The highest title position nearing retirement is "Senior Engineer" with 29,414 employees.  The least title position nearing retirement is "Manager" with 2 employees.
 
 <img width="332" alt="retirement_by_titles" src="https://user-images.githubusercontent.com/691355/129430116-b16ee506-228f-4395-addd-b493a1360a7e.png">
 
