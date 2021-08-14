@@ -10,6 +10,10 @@ The analysis will help prepare Bobby’s manager for the “silver tsunami” as
 ## Resources
 -  Software/Languages:  PgAdmin4, SQL
 
+## Database Diagram
+
+![EmployeeDB](https://user-images.githubusercontent.com/691355/129432298-6bee2f52-a42d-44e5-b03e-73923960ab26.png)
+
 
 # Challenge Summary
 
