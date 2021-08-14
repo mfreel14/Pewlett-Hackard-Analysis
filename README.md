@@ -8,6 +8,8 @@ The analysis will help prepare Bobby’s manager for the “silver tsunami” as
 
 
 ## Resources
+-  Data Files: departments.csv, dept_emp.csv, dept_manager.csv, emp_count_by_dept_no.csv, employees.csv, retirement_info.csv, salaries.csv, titles.csv, mentorship_eligibility.csv, retirement_titles.csv, unique_titles.csv, retiring_titles.csv.
+
 -  Software/Languages:  PgAdmin4, SQL
 
 ## Database Diagram
